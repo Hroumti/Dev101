@@ -1,0 +1,1 @@
+{"name": "Motherboard", "ram_slots": 4, "price": 1200, "componants": [{"id": 3, "name": "RAM", "brand": "Corsair", "price": 100, "capacity": 8, "type": "DDR4"}, {"id": 4, "name": "RAM", "brand": "Corsair", "price": 100, "capacity": 8, "type": "DDR4"}, {"id": 1, "name": "CPU", "brand": "Intel", "price": 500, "frequency": 4.2, "cores": 8}]}
